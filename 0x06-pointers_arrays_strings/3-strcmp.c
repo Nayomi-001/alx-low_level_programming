@@ -2,7 +2,7 @@
 
 /**
  * _strcmp - compares two strings value
- * @s1: strring 1
+ * @s1: string 1
  * @s2: string 2
  * Return: the difference in s1 and s2
  */
