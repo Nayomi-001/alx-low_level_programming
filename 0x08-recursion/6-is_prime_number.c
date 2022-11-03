@@ -5,7 +5,7 @@ int prime_checker(int n, int i);
  * @n: input to check
  * Return: Always 0 (Success)
  */
-int is _prime_number(int n)
+int is_prime_number(int n)
 {
 	if (n <= 1)
 		return (0);
